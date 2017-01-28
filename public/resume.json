@@ -1,0 +1,180 @@
+{
+    "basics": {
+        "name": "Anton Shevyrin",
+        "label": "Software Engineer",
+        "picture": "public/images/me.jpg",
+        "email": "anton.shevyrin@gmail.com",
+        "phone": "+37257414671",
+        "website": "https://antonshevyrin.github.io",
+        "summary": "Experienced game developer, frontend specialist. Responsible, fast learner and adaptable. Constantly interested in learning new things.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Tallinn",
+            "countryCode": "Estonia",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "Phone",
+                "username": "",
+                "url": "skype:+37257414671"
+            },
+            {
+                "network": "Email",
+                "username": "anton.shevyrin@gmail.com",
+                "url": "mailto:anton.shevyrin@gmail.com"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "anton-shevyrin",
+                "url": "https://hk.linkedin.com/in/anton-shevyrin"
+            },
+            {
+                "network": "Free Code Camp",
+                "username": "antonshevyrin",
+                "url": "https://www.freecodecamp.com/antonshevyrin"
+            },
+            {
+                "network": "GitHub",
+                "username": "antonshevyrin",
+                "url": "https://github.com/antonshevyrin"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Playtech",
+            "position": "Flash Developer",
+            "website": "http://playtech.com/",
+            "startDate": "2014-08-01",
+            "endDate": "2016-12-01",
+            "summary": "Tallinn, Estonia",
+            "highlights": [
+                "Working on Live Casino web client. Video streaming technologies, client-server protocol, reactive programming."
+            ]
+        },
+        {
+            "company": "Creative Mobile",
+            "position": "Flash Programmer Expert",
+            "website": "http://creative-mobile.com/",
+            "startDate": "2014-05-01",
+            "endDate": "2014-07-01",
+            "summary": "Tallinn, Estonia",
+            "highlights": [
+                "Working on Drag Racing Social - game for Facebook, Vkontakte and Odnoklassniki.",
+                "Technologies used: Adobe Flex, Robotlegs framework, Starling."
+            ]
+        },
+        {
+            "company": "Pragmatix Corp.",
+            "position": "Senior Programmer",
+            "website": "http://pragmatix-corp.com/",
+            "startDate": "2013-10-01",
+            "endDate": "2014-04-01",
+            "summary": "St. Petersburg, Russia",
+            "highlights": [
+                "Working as lead on Wormix Mobile project. Further developing and improving mobile version of Wormix on Android and iOS platforms."
+            ]
+        },
+        {
+            "company": "Pragmatix Corp.",
+            "position": "Programmer",
+            "website": "http://pragmatix-corp.com/",
+            "startDate": "2012-06-01",
+            "endDate": "2013-09-01",
+            "summary": "St. Petersburg, Russia",
+            "highlights": [
+                "Porting popular social game Wormix to mobile platforms: Android and iOS.",
+                "Wormix is a Flash game and it was ported to mobile platforms using Adobe AIR."
+            ]
+        },
+        {
+            "company": "Signus Labs",
+            "position": "Programmer",
+            "website": "http://signuslabs.com/",
+            "startDate": "2011-05-01",
+            "endDate": "2012-05-01",
+            "summary": "St. Petersburg, Russia",
+            "highlights": [
+                "Working on different Flash-games projects: Million Dollar Money Drop, Deal or Not Deal, Conan The Barbarian.",
+                "Working on Lucy and Lola's Big Adventure iPad game (also in Flash - using Adobe Flex + Adobe AIR)."
+            ]
+        },
+        {
+            "company": "Oberon Media",
+            "position": "Programmer",
+            "website": "http://oberon-media.com/",
+            "startDate": "2008-08-01",
+            "endDate": "2013-03-01",
+            "summary": "St. Petersburg, Russia",
+            "highlights": [
+                "Developing casual games for Oberon Media casual games platform.",
+                "Developing social game Bubble Town: Party Planet for Facebook platform.",
+                "All games are Flash based. Server side is .NET based (I was working on server side too)."
+            ]
+        },
+        {
+            "company": "Intalev",
+            "position": "Junior Programmer",
+            "website": "http://intalev.ru/",
+            "startDate": "2007-08-01",
+            "endDate": "2008-04-01",
+            "summary": "St. Petersburg, Russia",
+            "highlights": [
+                "Developing mind-mapping software for Windows and web-browser (web version was in Flash/Flex and Javascript, Windows version was on .NET platform).",
+                "Browser version  created compatible with Windows version."
+            ]
+        }
+    ],
+    "volunteer": [
+    ],
+    "education": [
+        {
+            "institution": "STATE UNIVERSITY OF WATERWAY COMMUNICATIONS",
+            "area": "Masters Degree in Applied Math and Computer Science",
+            "studyType": "",
+            "startDate": "2003-01-01",
+            "endDate": "2008-01-01",
+            "gpa": "Distinction + !!!Member of the university team for ACM International Collegiate Programming Contest",
+            "summary": "St. Petersburg, Russia",
+            "courses": []
+        },
+        {
+            "institution": "STATE UNIVERSITY OF IT, MECHANICS, AND OPTICS",
+            "area": "MOTOROLA PREPARATORY COURSE 2006 – 2007",
+            "studyType": "",
+            "startDate": "2007-05-01",
+            "endDate": "2007-05-01",
+            "gpa": "Certification of completion",
+            "summary": "St. Petersburg, Russia",
+            "courses": []
+        }
+    ],
+    "awards": [
+    ],
+    "publications": [
+        {
+            "name": "Tribute page:Web:JavaScript, HTML5, CSS",
+            "publisher": "Anton Shevyrin",
+            "releaseDate": "2017-01-28",
+            "website": "https://antonshevyrin.github.io/tribute-page/",
+            "summary": "Done for Free Code Camp tribute page challenge."
+        },
+        {
+            "name": "Personal page:Web:JavaScript, HTML5, CSS, React",
+            "publisher": "Anton Shevyrin",
+            "releaseDate": "2017-01-28",
+            "website": "https://antonshevyrin.github.io/",
+            "summary": "Personal page with CV"
+        }
+    ],
+    "skills": [
+    ],
+    "languages": [
+    ],
+    "interests": [
+    ],
+    "references": [
+    ]
+}
