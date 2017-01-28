@@ -1,0 +1,9 @@
+#top-block {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sonoran_desert_sunset.jpg/640px-Sonoran_desert_sunset.jpg');
+  background-size:cover;
+  color: black;
+}
+body {
+  color: white;
+  background-color: black;
+}
