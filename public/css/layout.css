@@ -284,59 +284,59 @@ strong.fa-quora {
 
 
 /* ------------------------------------------------------------------ */
-/* d. Work Section
+/* d. Experience Section
 /* ------------------------------------------------------------------ */
 
-#work {
+#experience {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 0px;
    overflow: hidden;
 }
 
-#work a, #work a:visited  { color: #313131; }
-#work a:hover, #work a:focus { color: #11ABB0; }
+#experience a, #experience a:visited  { color: #313131; }
+#experience a:hover, #experience a:focus { color: #11ABB0; }
 
-#work h1 {
+#experience h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#work h1 span {
+#experience h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
-#work h3 {
+#experience h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#work .header-col { padding-top: 9px; }
-#work .main-col { padding-right: 10%; }
+#experience .header-col { padding-top: 9px; }
+#experience .main-col { padding-right: 10%; }
 
-.education, .work {
+.education, .experience {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#work .info {
+#experience .info {
    font: 15px/24px 'librebaskerville-regular', sans-serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#work .info span {
+#experience .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
-#work .info-summary {
+#experience .info-summary {
    font: 15px/24px 'librebaskerville-regular', sans-serif;
    margin-top: 6px;
 }
-#work .date {
+#experience .date {
    font: 15px/24px 'librebaskerville-regular', sans-serif;
    margin-top: 6px;
 }
-#work .point {
+#experience .point {
    margin: 0 0 10px 0;
 }
 

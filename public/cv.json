@@ -28,7 +28,7 @@
             {
                 "network": "LinkedIn",
                 "username": "anton-shevyrin",
-                "url": "https://hk.linkedin.com/in/anton-shevyrin"
+                "url": "https://linkedin.com/in/anton-shevyrin"
             },
             {
                 "network": "Free Code Camp",
@@ -42,7 +42,7 @@
             }
         ]
     },
-    "work": [
+    "experience": [
         {
             "company": "Playtech",
             "position": "Flash Developer",
