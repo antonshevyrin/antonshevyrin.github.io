@@ -4,7 +4,7 @@
         "label": "Software Engineer",
         "picture": "public/images/me.jpg",
         "email": "anton.shevyrin@gmail.com",
-        "phone": "+37257414671",
+        "phone": "skype: anton.shevyrin",
         "website": "https://antonshevyrin.github.io",
         "summary": "Experienced game developer, frontend specialist. Responsible, fast learner and adaptable. Constantly interested in learning new things.",
         "location": {
@@ -18,7 +18,7 @@
             {
                 "network": "Phone",
                 "username": "",
-                "url": "skype:+37257414671"
+                "url": "skype:anton.shevyrin"
             },
             {
                 "network": "Email",
@@ -43,6 +43,17 @@
         ]
     },
     "experience": [
+        {
+            "company": "TACTIC™ Real-Time Marketing",
+            "position": "Programmer",
+            "website": "http://www.tacticrealtime.com/",
+            "startDate": "2017-03-01",
+            "endDate": "Present",
+            "summary": "Tallinn, Estonia",
+            "highlights": [
+                "Working in implementation unit."
+            ]
+        },
         {
             "company": "Playtech",
             "position": "Flash Developer",
