@@ -169,7 +169,7 @@
             "name": "Tribute page:Web:JavaScript, HTML5, CSS",
             "publisher": "Anton Shevyrin",
             "releaseDate": "2017-01-28",
-            "website": "https://antonshevyrin.github.io/tribute-page/",
+            "website": "https://antonshevyrin.github.io/freecodecamp-tribute-page/index.html",
             "summary": "Done for Free Code Camp tribute page challenge."
         },
         {
@@ -178,6 +178,13 @@
             "releaseDate": "2017-01-28",
             "website": "https://antonshevyrin.github.io/",
             "summary": "Personal page with CV"
+        },
+        {
+            "name": "Random quote machine:Web:JavaScript, HTML5, CSS, React",
+            "publisher": "Anton Shevyrin",
+            "releaseDate": "2017-09-19",
+            "website": "https://antonshevyrin.github.io/freecodecamp-random-quote-machine/",
+            "summary": "Random quotes from Tropico - another Free Code Camp challenge."
         }
     ],
     "skills": [
