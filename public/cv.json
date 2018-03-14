@@ -51,7 +51,8 @@
             "endDate": "Present",
             "summary": "Tallinn, Estonia",
             "highlights": [
-                "Working in implementation unit."
+                "Working in implementation unit on custom creatives for different clients, adverts editor and different internal utilities.",
+                "Technologies used: AngularJS for adverts editor, internal proprietary libraries for adverts building and rendering, Node.js for utilities and validation tools."
             ]
         },
         {
